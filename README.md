@@ -5,7 +5,7 @@ Open the official website and select the extension (Make sure you're logged in w
 
 Click on import
 
-Paste the text in '''hifriend.txt''' and cick on import again
+Paste the text in 'hifriend.txt' and cick on import again
 
 Refresh the website
 
